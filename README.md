@@ -1,4 +1,4 @@
-   Oi, eu a sou Milena Ribeiro 👋
+   Oi, eu a sou Milena... 👋
 
 - 👩‍🎓 Estudante de Sistemas para Internet - UNIESP
 - 🏢 Atualmente trabalho como Social Media na área da Saúde
