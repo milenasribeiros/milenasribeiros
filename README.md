@@ -1,7 +1,6 @@
    Oi, eu a sou Milena... 👋
 
 - 👩‍🎓 Estudante de Sistemas para Internet - UNIESP
-- 🏢 Atualmente trabalho como Social Media na área da Saúde
 - 👩‍💻 Programadora em desenvolvimento ⌛ (ou seja, tenha paciência 🥺👉👈)
 - 🌱 Atualmente estou aprendendo Python, JavaScript, Java
 - 😄 Pronomes: ela/dela
