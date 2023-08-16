@@ -5,6 +5,11 @@
 - 🌱 Atualmente estou aprendendo diversas linguagens Java, Python e Javascript. Dando maior atenção para alguns projetos com HTML, CSS e Javascripit devido a maior identificação com está área. 
 - 😄 Pronomes: ela/dela
 - ⚡ Uma curiosidade intrigante sobre mim: tenho medo de animais que muitos não têm nem ideia de que poderiam causar receio. 🙃
+- 👩‍💻 Se você quiser compartilhar conhecimentos, trocar ideias ou simplesmente bater um papo, estou pronta para mergulhar em conversas fascinantes! 👩‍🎓🙃
+
+
+
+
 
 
 
