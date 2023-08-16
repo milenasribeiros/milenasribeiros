@@ -1,10 +1,10 @@
    Oi, eu a sou Milena... 👋
 
 - 👩‍🎓 Estudante de Sistemas para Internet - UNIESP
-- 👩‍💻 Programadora em desenvolvimento ⌛ (ou seja, tenha paciência 🥺👉👈)
-- 🌱 Atualmente estou aprendendo Python, JavaScript, Java
+- 👩‍💻 Estou estudando o mundo da programação e em constante evolução ⌛, é sempre bom lembrar que estou sempre aprendendo (ou seja, tenha paciência 🥺👉👈)
+- 🌱 Atualmente estou aprendendo diversas linguagens Java, Python e Javascript. Dando maior atenção para alguns projetos com HTML, CSS e Javascripit devido a maior identificação com está área. 
 - 😄 Pronomes: ela/dela
-- ⚡ Curiosidades: Tenho medo de animais que quase ninguém tem 🙃
+- ⚡ Uma curiosidade intrigante sobre mim: tenho medo de animais que muitos não têm nem ideia de que poderiam causar receio. 🙃
 
 
 
