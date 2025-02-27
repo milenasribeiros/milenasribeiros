@@ -3,11 +3,11 @@
 
 👋 eu sou Milena Ribeiro!
 
-🎓 Formada em Sistemas para Internet - UNIESP
+🎓 Formada em Sistemas para Internet - UNIESP.
 
 💬 Busco constantemente aprimorar os conhecimentos que adquiri ao longo da vida, não apenas para me tornar uma profissional melhor, mas também para evoluir como pessoa.
 
-📌 Aprendendo sobre metodologias ageis, testes de automação 
+📌 Aprendendo sobre metodologias ageis, testes de automação.
 
 🛠  Habilidade: Python | Java | JavaScript | HTML | CSS | React Native | React JS | Git e GitHub 
 
